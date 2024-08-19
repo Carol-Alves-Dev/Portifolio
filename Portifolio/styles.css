@@ -1,0 +1,164 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.center-text {
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 1.8rem;
+    margin-top: 30px;
+}
+
+/* Layout */
+.contato, .habilidades, .projeto, .experiencia, .resumo-prof, .projeto-design {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Rodape*/
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+/* Seção de contato */
+.contato ul {
+    padding: 0;
+    text-align: left;
+}
+
+.contato li {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+/* Seção de Habilidades */
+.habilidades ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+.habilidades li {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Seção do Projeto */
+.projeto ul {
+    text-align: left;
+}
+
+.projeto a {
+    font-weight: bold;
+    color: #333;
+}
+
+.projeto a:hover {
+    color: #007bff;
+}
+
+/* Seção de experiência */
+.experiencia ul {
+    padding-left: 20px;
+}
+
+/* Seção Resumo */
+.resumo-prof ul {
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* Seção de Projeto de Design */
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.images img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100px;
+    /*height: 100px;*/
+    object-fit: cover;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .habilidades ul {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .images img {
+        width: 100%;
+    }
+}
