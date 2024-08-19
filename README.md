@@ -25,7 +25,7 @@ Desenvolvedora Web especializada em criar sites em WordPress e Elementor. Tenho 
   - Desenvolvimento de sites e gerenciamento de redes sociais para clientes.
 
 ## Resumo Profissionais
-- Atuei como desenvolvedora de sites utilizando WordPress e Elementor por 11 meses em uma agência de marketing digital, desempenhando essa função como a minha principal
+Atuei como desenvolvedora de sites utilizando WordPress e Elementor por 11 meses em uma agência de marketing digital, desempenhando essa função como a minha principal
 responsabilidade. Durante esse período, também ofereci suporte na publicação de conteúdos nas mídias sociais dos clientes e colaborei na edição de materiais gráficos
 utilizando ferramentas como Photoshop e Illustrator.
 
