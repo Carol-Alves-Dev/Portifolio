@@ -43,9 +43,9 @@ e contribuir com minhas habilidades e experiências para novos projetos.
 - destacam a originalidade e a eficácia visual em diferentes contextos de uso.
 
 
-<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/MODELO%20DEGRADE.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/MODELO%20DEGRADE%20HORIZONTAL.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/MODELO%20DEGRADE%20S.png" alt="Logo 2" width="200"/>
+<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/MODELO-DEGRADE.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/MODELO-DEGRADE-HORIZONTAL.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/MODELO-DEGRADE-S.png" alt="Logo 2" width="200"/>
 
-<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/LOGO-VERTICAL-VERMELHA-CINZA.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/LOGO-HORIZONTAL-VERMELHA-CINZA.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/GRAFICO-FOQUETE-CINZA.png" alt="Logo 2" width="200"/>
+<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/LOGO-VERTICAL-VERMELHA-CINZA.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/LOGO-HORIZONTAL-VERMELHA-CINZA.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/GRAFICO-FOQUETE-CINZA.png" alt="Logo 2" width="200"/>
 
-<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/LOGO-VERTICAL-VERMELHA-BRANCA.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/LOGO-HORIZINTAL-VERMELHA-BRANCA.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/GRAFICO-FOQUETE-BRANCO.png" alt="Logo 2" width="200"/>
+<img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/LOGO-VERTICAL-VERMELHA-BRANCA.png" alt="Logo 1" width="200"/> <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/LOGO-HORIZINTAL-VERMELHA-BRANCA.png" alt="Logo 2" width="200"/>  <img src="https://github.com/Carol-Alves-Dev/Portifolio/blob/main/Portifolio/img/GRAFICO-FOQUETE-BRANCO.png" alt="Logo 2" width="200"/>
 
